@@ -1,8 +1,46 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP BUQ2-USB-MICRO-B
+D USB Micro B connector
+K USB Mini B, USB
+$ENDCMP
+#
 $CMP BUQ2-USB-MINI-B
 D USB Mini B connector
 K USB Mini B, USB
+$ENDCMP
+#
+$CMP CSS-0575A-SMT
+D Magnetic Buzzer
+$ENDCMP
+#
+$CMP LS013B4DN04
+D Sharp Memory LCD
+$ENDCMP
+#
+$CMP MCP73831-SOT-23-5
+D Li-Poly Battery Manager
+$ENDCMP
+#
+$CMP MCP7940M
+D Real-Time Clock/Calendar
+$ENDCMP
+#
+$CMP MICRO-SD-CONN
+D Micro-SD connector
+$ENDCMP
+#
+$CMP MPL3115A2
+D Barometer
+K MPL3115A2-ND
+$ENDCMP
+#
+$CMP MPU-9250
+D 9-Axis Sensor
+$ENDCMP
+#
+$CMP NCP4681-SC-70
+D Ultra Low Iq LDO
 $ENDCMP
 #
 #End Doc Library
