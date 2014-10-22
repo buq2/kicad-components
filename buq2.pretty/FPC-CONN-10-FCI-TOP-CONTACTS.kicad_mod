@@ -1,6 +1,6 @@
-(module FPC-CONN-10-FCI (layer F.Cu) (tedit 544734B4)
+(module FPC-CONN-10-FCI-TOP-CONTACTS (layer F.Cu) (tedit 544734D3)
   (descr http://portal.fciconnect.com/Comergent//fci/drawing/10112793.pdf)
-  (fp_text reference FPC-CONN-10-FCI (at 2.5 -2.25) (layer F.SilkS)
+  (fp_text reference FPC-CONN-10-FCI-TOP-CONTACTS (at 2.5 -2.25) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value VAL** (at 2.85 6.65) (layer F.SilkS)
