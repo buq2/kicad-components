@@ -1,5 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP ADA4817-1
+D Linear amplifier GBP 410MHz
+$ENDCMP
+#
 $CMP BUQ2-USB-MICRO-B
 D USB Micro B connector
 K USB Mini B, USB
@@ -12,6 +16,16 @@ $ENDCMP
 #
 $CMP CSS-0575A-SMT
 D Magnetic Buzzer
+$ENDCMP
+#
+$CMP LED_CREE_RGB_PLCC4
+D LED
+$ENDCMP
+#
+$CMP LM3480
+D Linear Regulator SOT23-3
+K SOT23-3
+F http://www.ti.com/lit/ds/symlink/lm3480.pdf
 $ENDCMP
 #
 $CMP LS013B4DN04
@@ -30,6 +44,10 @@ $CMP MICRO-SD-CONN
 D Micro-SD connector
 $ENDCMP
 #
+$CMP MICTOR_38
+D Mictor connector
+$ENDCMP
+#
 $CMP MPL3115A2
 D Barometer
 K MPL3115A2-ND
@@ -41,6 +59,22 @@ $ENDCMP
 #
 $CMP NCP4681-SC-70
 D Ultra Low Iq LDO
+$ENDCMP
+#
+$CMP NPN-SOT23
+D NPN transistor for SOT-23
+$ENDCMP
+#
+$CMP P-MOSFET-SOT23
+D P-MOSFET for SOT-23
+$ENDCMP
+#
+$CMP TAG-CONNECT-ATMEL-PDI-CONNECTOR
+D TAG-Connect programmer for Atmel PDI
+$ENDCMP
+#
+$CMP TLE2426
+D Virtual Ground Reference
 $ENDCMP
 #
 #End Doc Library
