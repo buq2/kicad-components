@@ -4,6 +4,23 @@ $CMP ADA4817-1
 D Linear amplifier GBP 410MHz
 $ENDCMP
 #
+$CMP AGLN010V2-QNG48
+D Microsemi Igloo Nano 48-QFN Package
+K Actel, Microsemi, Igloo, Nano
+F http://www.microsemi.com/index.php?option=com_docman&task=doc_download&gid=130695
+$ENDCMP
+#
+$CMP AP7317-xxSA
+D Linear voltage regulator. SOT-23-3
+K Linear voltage regulator, LDO
+$ENDCMP
+#
+$CMP APX809
+D Reset Circuit SOT23
+K Reset Circuit
+F http://www.diodes.com/datasheets/APX809_APX810.pdf
+$ENDCMP
+#
 $CMP BUQ2-USB-MICRO-B
 D USB Micro B connector
 K USB Mini B, USB
