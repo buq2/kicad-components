@@ -16,15 +16,15 @@ K Linear voltage regulator, LDO
 F http://www.diodes.com/datasheets/AP7313.pdf
 $ENDCMP
 #
-$CMP AP7317-xxSA
-D Linear voltage regulator. SOT-23-3
-K Linear voltage regulator, LDO
-$ENDCMP
-#
 $CMP APX809
 D Reset Circuit SOT23
 K Reset Circuit
 F http://www.diodes.com/datasheets/APX809_APX810.pdf
+$ENDCMP
+#
+$CMP BUFFER
+D Non inverting buffer circuit.
+K MC74VHC1GT125, 74LVC1G17, 74AHCT1G126
 $ENDCMP
 #
 $CMP BUQ2-USB-MICRO-B
