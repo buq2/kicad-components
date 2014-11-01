@@ -46,9 +46,8 @@ D USB 3 Control Chip and MC
 K USB3
 $ENDCMP
 #
-$CMP CYPRESS_CYUSB3011_VIO2
-D USB 3 Control Chip and MC
-K USB3
+$CMP LD1117-SOT-223
+D Linear voltage regulator LDO
 $ENDCMP
 #
 $CMP LED_CREE_RGB_PLCC4
@@ -92,10 +91,16 @@ $ENDCMP
 #
 $CMP NCP4681-SC-70
 D Ultra Low Iq LDO
+K Linear regulator
 $ENDCMP
 #
 $CMP NPN-SOT23
 D NPN transistor for SOT-23
+$ENDCMP
+#
+$CMP OSCILLATOR-ABRACON-ASE
+D Oscillator
+K Oscillator
 $ENDCMP
 #
 $CMP P-MOSFET-SOT23
