@@ -10,6 +10,12 @@ K Actel, Microsemi, Igloo, Nano
 F http://www.microsemi.com/index.php?option=com_docman&task=doc_download&gid=130695
 $ENDCMP
 #
+$CMP AP7313-xxSA
+D Linear voltage regulator. SOT-23-3
+K Linear voltage regulator, LDO
+F http://www.diodes.com/datasheets/AP7313.pdf
+$ENDCMP
+#
 $CMP AP7317-xxSA
 D Linear voltage regulator. SOT-23-3
 K Linear voltage regulator, LDO
