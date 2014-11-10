@@ -54,6 +54,12 @@ $CMP LED_CREE_RGB_PLCC4
 D LED
 $ENDCMP
 #
+$CMP LINX-FM-GPS
+D Linx FM GPS Module
+K GPS, Linx, FM
+F https://www.linxtechnologies.com/resources/data-guides/rxm-gps-fm.pdf
+$ENDCMP
+#
 $CMP LM3480
 D Linear Regulator SOT23-3
 K SOT23-3
