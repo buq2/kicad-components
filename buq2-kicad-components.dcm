@@ -113,6 +113,12 @@ $CMP P-MOSFET-SOT23
 D P-MOSFET for SOT-23
 $ENDCMP
 #
+$CMP SI7020-A10
+D Humidity Sensor
+K Silicon Labs, Humidity
+F http://www.silabs.com/Support%20Documents/TechnicalDocs/Si7020.pdf
+$ENDCMP
+#
 $CMP TAG-CONNECT-ATMEL-PDI-CONNECTOR
 D TAG-Connect programmer for Atmel PDI
 $ENDCMP
