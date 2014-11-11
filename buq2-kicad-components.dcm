@@ -95,6 +95,12 @@ $CMP MPU-9250
 D 9-Axis Sensor
 $ENDCMP
 #
+$CMP MS5805-02BA01
+D Miniature Altimeter Module
+K Altimeter, Barometer, I2C
+F http://www.meas-spec.com/downloads/MS5805-02BA01.pdf
+$ENDCMP
+#
 $CMP NCP4681-SC-70
 D Ultra Low Iq LDO
 K Linear regulator
