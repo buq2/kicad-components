@@ -1,10 +1,10 @@
-(module FPC-CONN-10-FCI-BOTTOM-CONTACTS (layer F.Cu) (tedit 5447369C)
+(module FPC-CONN-10-FCI-BOTTOM-CONTACTS (layer F.Cu) (tedit 5461AD7B)
   (descr http://portal.fciconnect.com/Comergent//fci/drawing/10112793.pdf)
   (fp_text reference FPC-CONN-10-FCI-BOTTOM-CONTACTS (at 2.5 -2.25) (layer F.SilkS)
-    (effects (font (size 1 1) (thickness 0.15)))
+    (effects (font (size 0.75 0.75) (thickness 0.15)))
   )
   (fp_text value VAL** (at 2.85 6.65) (layer F.SilkS)
-    (effects (font (size 1 1) (thickness 0.15)))
+    (effects (font (size 0.75 0.75) (thickness 0.15)))
   )
   (fp_text user "Check pin order!" (at 0.1 13) (layer Dwgs.User) hide
     (effects (font (size 1 1) (thickness 0.15)))
