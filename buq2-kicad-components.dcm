@@ -46,6 +46,12 @@ D USB 3 Control Chip and MC
 K USB3
 $ENDCMP
 #
+$CMP FLASH_MEMORY
+D Flash memory or RAM memory
+K Flash, Memory, SOIC-8, Spansion, RAM, On Semi
+F http://www.spansion.com/Support/Datasheets/S25FL216K_00.pdf
+$ENDCMP
+#
 $CMP LD1117-SOT-223
 D Linear voltage regulator LDO
 $ENDCMP
