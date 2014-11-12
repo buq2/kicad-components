@@ -139,4 +139,10 @@ $CMP TLE2426
 D Virtual Ground Reference
 $ENDCMP
 #
+$CMP W3011A
+D GPS Antenna
+K Pulse, W3011A
+F http://productfinder.pulseeng.com/products/datasheets/W3011_W3011A.pdf
+$ENDCMP
+#
 #End Doc Library
