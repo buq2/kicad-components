@@ -131,6 +131,12 @@ K Silicon Labs, Humidity
 F http://www.silabs.com/Support%20Documents/TechnicalDocs/Si7020.pdf
 $ENDCMP
 #
+$CMP SIM33ELA
+D GPS Module with integrated antenna
+K GPS, Antenna, Module
+F http://www.sabreadv.com/wp-content/uploads/SIM33ELA_Hardware-Design_V1.00.pdf
+$ENDCMP
+#
 $CMP TAG-CONNECT-ATMEL-PDI-CONNECTOR
 D TAG-Connect programmer for Atmel PDI
 $ENDCMP
