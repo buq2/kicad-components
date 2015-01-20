@@ -76,6 +76,12 @@ $CMP LS013B4DN04
 D Sharp Memory LCD
 $ENDCMP
 #
+$CMP MAX6675ISA+
+D K-Thermocouple, ISP
+K ISP, Thermocouple, K-Thermocouple, Temperature
+F http://datasheets.maximintegrated.com/en/ds/MAX6675.pdf
+$ENDCMP
+#
 $CMP MCP73831-SOT-23-5
 D Li-Poly Battery Manager
 $ENDCMP
