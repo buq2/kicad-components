@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 2SMPB-01-01
+D Absolute Pressure Sensor
+K Omron, Pressure, Sensor
+F http://www.components.omron.com/components/web/pdflib.nsf/0/A80B1103AB905F3F86257D19005EBC65/$file/2SMPB-01-01_0714.pdf
+$ENDCMP
+#
 $CMP ADA4817-1
 D Linear amplifier GBP 410MHz
 $ENDCMP
@@ -8,6 +14,12 @@ $CMP AGLN010V2-QNG48
 D Microsemi Igloo Nano 48-QFN Package
 K Actel, Microsemi, Igloo, Nano
 F http://www.microsemi.com/index.php?option=com_docman&task=doc_download&gid=130695
+$ENDCMP
+#
+$CMP AGLN060-VQ100
+D Microsemi Igloo Nano FPGA VQ100 package
+K AGLN060, Igloo, Nano, FPGA, Microsemi
+F http://www.microsemi.com/document-portal/doc_download/130695-igloo-nano-low-power-flash-fpgas-datasheet
 $ENDCMP
 #
 $CMP AP7313-xxSA
@@ -50,6 +62,11 @@ $CMP FLASH_MEMORY
 D Flash memory or RAM memory
 K Flash, Memory, SOIC-8, Spansion, RAM, On Semi
 F http://www.spansion.com/Support/Datasheets/S25FL216K_00.pdf
+$ENDCMP
+#
+$CMP LCMXO2-1200HC-100TQFP
+D Lattice MachXO2 1200 CPLD/FPGA XO2-1200 100 TQFP package
+K XO2-1200, MachXO2
 $ENDCMP
 #
 $CMP LD1117-SOT-223
@@ -155,6 +172,12 @@ $CMP W3011A
 D GPS Antenna
 K Pulse, W3011A
 F http://productfinder.pulseeng.com/products/datasheets/W3011_W3011A.pdf
+$ENDCMP
+#
+$CMP XC6SLX4
+D Xilinx Spartan 6 LX4/LX9 TQG144 package
+K Xilinx, Spartan 6, Spartan-6
+F http://www.xilinx.com/support/documentation/data_sheets/ds160.pdf
 $ENDCMP
 #
 #End Doc Library
