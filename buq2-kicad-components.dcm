@@ -99,6 +99,11 @@ K ISP, Thermocouple, K-Thermocouple, Temperature
 F http://datasheets.maximintegrated.com/en/ds/MAX6675.pdf
 $ENDCMP
 #
+$CMP MCP4017
+D 7-bit I2C Digital Potentiometer SC70
+K Potentiometer
+$ENDCMP
+#
 $CMP MCP73831-SOT-23-5
 D Li-Poly Battery Manager
 $ENDCMP
@@ -158,6 +163,10 @@ $CMP SIM33ELA
 D GPS Module with integrated antenna
 K GPS, Antenna, Module
 F http://www.sabreadv.com/wp-content/uploads/SIM33ELA_Hardware-Design_V1.00.pdf
+$ENDCMP
+#
+$CMP SPEAKER-WITH-DUMMY
+D Magnetic Buzzer
 $ENDCMP
 #
 $CMP TAG-CONNECT-ATMEL-PDI-CONNECTOR
