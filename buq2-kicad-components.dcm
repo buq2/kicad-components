@@ -165,6 +165,14 @@ K GPS, Antenna, Module
 F http://www.sabreadv.com/wp-content/uploads/SIM33ELA_Hardware-Design_V1.00.pdf
 $ENDCMP
 #
+$CMP SPDT-SWITCH
+D Switch, Single pole, double throw
+$ENDCMP
+#
+$CMP SPDT-SWITCH-WITH-DUMMY
+D Switch, Single pole, double throw
+$ENDCMP
+#
 $CMP SPEAKER-WITH-DUMMY
 D Magnetic Buzzer
 $ENDCMP

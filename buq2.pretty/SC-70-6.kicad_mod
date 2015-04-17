@@ -1,4 +1,4 @@
-(module SC-70-6 (layer F.Cu) (tedit 552EBC4F)
+(module SC-70-6 (layer F.Cu) (tedit 552F44CF)
   (fp_text reference SC-70-6 (at -0.2 1.75) (layer F.SilkS)
     (effects (font (size 0.75 0.75) (thickness 0.15)))
   )
@@ -15,5 +15,5 @@
   (pad 3 smd rect (at -1.1 0.65) (size 0.9 0.4) (layers F.Cu F.Paste F.Mask))
   (pad 4 smd rect (at 1.1 0.65) (size 0.9 0.4) (layers F.Cu F.Paste F.Mask))
   (pad 5 smd rect (at 1.1 0) (size 0.9 0.4) (layers F.Cu F.Paste F.Mask))
-  (pad 4 smd rect (at 1.1 -0.65) (size 0.9 0.4) (layers F.Cu F.Paste F.Mask))
+  (pad 6 smd rect (at 1.1 -0.65) (size 0.9 0.4) (layers F.Cu F.Paste F.Mask))
 )
