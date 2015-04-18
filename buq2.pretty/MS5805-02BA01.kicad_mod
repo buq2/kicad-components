@@ -15,4 +15,9 @@
   (pad 2 smd rect (at -1.65 1.29) (size 1.7 0.9) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at 1.65 1.29) (size 1.7 0.9) (layers F.Cu F.Paste F.Mask))
   (pad 4 smd rect (at 1.65 -1.25) (size 1.7 0.9) (layers F.Cu F.Paste F.Mask))
+  (model cube_1mm.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 4 4 3.6))
+    (rotate (xyz 0 0 0))
+  )
 )
