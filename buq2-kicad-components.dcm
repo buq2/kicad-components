@@ -77,6 +77,10 @@ $CMP LED_CREE_RGB_PLCC4
 D LED
 $ENDCMP
 #
+$CMP LED_THERMAL_PAD
+K LED
+$ENDCMP
+#
 $CMP LINX-FM-GPS
 D Linx FM GPS Module
 K GPS, Linx, FM
@@ -175,6 +179,12 @@ $ENDCMP
 #
 $CMP SPEAKER-WITH-DUMMY
 D Magnetic Buzzer
+$ENDCMP
+#
+$CMP STCS1A
+D Linear LED driver
+K LED driver, linear, led
+F http://www.st.com/web/en/resource/technical/document/datasheet/CD00185793.pdf
 $ENDCMP
 #
 $CMP TAG-CONNECT-ATMEL-PDI-CONNECTOR
